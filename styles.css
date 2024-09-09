@@ -1,0 +1,32 @@
+*{
+    background-color: #f0a7ff;
+    font-family: 'Roboto';
+}
+
+.principal{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    display: grid;
+    place-items: center;
+
+}
+
+.principal button{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    align-items: center;
+    background-color: rgb(175, 173, 255);
+    border: white none 5px;
+}
+
+.principal button:hover{
+    border: #da39fa solid 3px;
+    background-color: rgb(134, 132, 253);
+
+}
+
+.principal h2{
+    color: rgb(55, 124, 252);
+}
